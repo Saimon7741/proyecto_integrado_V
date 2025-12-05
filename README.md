@@ -82,3 +82,7 @@ Asegúrate de tener Python instalado. Instala las dependencias del proyecto ejec
 
 ```bash
 pip install -r requirements.txt
+
+## 📊 Ejecución de dashboard
+
+descargar el archivo `Vgsales_MateoLara_SimónLara.pbix` alojado en la carpeta dashboard, y abrirlo con powerBI
